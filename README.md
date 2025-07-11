@@ -18,7 +18,8 @@ A customizable countdown timer built with HTML, CSS, and JavaScript.
 3. Set your event name and target date/time
 
 ## 📸 Screenshot
-*(Add preview image if you want)*
+<img width="506" height="599" alt="image" src="https://github.com/user-attachments/assets/cb9f6aa8-2ef5-4b8e-9b8b-c28036615693" />
+
 
 ---
 
